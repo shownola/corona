@@ -1,0 +1,25 @@
+.table-stat {
+  width: 100%;
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+}
+.table-dense {
+  margin: 0 auto;
+  width: 100%;
+  display: block;
+  text-align: center;
+}
+
+.dense {
+  width: 50%;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+body {
+  background-color: #fff;
+  width: 100%;
+  text-align: center;
+}
